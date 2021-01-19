@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Banking Dummy</string>
+    <string name="activity_customer_list" />
+</resources>
